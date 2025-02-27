@@ -13,7 +13,7 @@ Puedes crear categorías, agregar metas, registrar tu progreso y visualizar desc
 
 - Personalización con tu nombre y mensajes motivadores.
 
-# Cómo Usarlo
+# ¿Cómo Usarlo?
 
 Ejecuta el programa y sigue las instrucciones.
 
