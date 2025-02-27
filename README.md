@@ -3,7 +3,7 @@
 Esta aplicación permite gestionar metas y logros personales de manera interactiva y organizada. 
 Puedes crear categorías, agregar metas, registrar tu progreso y visualizar descripciones.
 
-#Características Principales
+# Características Principales
 
 - Agrega y organiza metas según tus categorías.
 
@@ -13,7 +13,7 @@ Puedes crear categorías, agregar metas, registrar tu progreso y visualizar desc
 
 - Personalización con tu nombre y mensajes motivadores.
 
-#Cómo Usarlo
+# Cómo Usarlo
 
 Ejecuta el programa y sigue las instrucciones.
 
